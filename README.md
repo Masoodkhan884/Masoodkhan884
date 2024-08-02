@@ -1,4 +1,4 @@
-![LOGO]()
+![LOGO](https://github.com/Masoodkhan884/Masoodkhan884/blob/main/IMSGE_GITHUB.png)
 <h1 align="center">Hi 👋, I'm Masood khan</h1>
 <h3 align="center">passionately diving into the world of Machine Learning, AI, and Deep Learning.</h3>
 
